@@ -10,7 +10,7 @@ This is V2 of the hack pad v1 can be accessed here https://github.com/PixelPanda
 ## CAD Model
 <img width="332" height="228" alt="image" src="https://github.com/user-attachments/assets/f277c794-f7cd-44ac-80e5-60b84b8a4889" />
 
-Would like to add more **fancy** but couldnt thinkkk of what to add. The box also prototype will change when i have the actual pcb cus i have 3d printers that are accessible 
+Would like to add more **fancy** but couldnt thinkkk of what to add. The box also prototype will change when i have the actual pcb cus i have 3d printers that are accessible so i can print it out and edit it and what not.
 
 
 ## PCB 
