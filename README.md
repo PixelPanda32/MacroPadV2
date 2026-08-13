@@ -18,10 +18,10 @@ I removed two of the buttons in place of another knob.(knobs are cooler and  *tw
 <img width="284" height="289" alt="image" src="https://github.com/user-attachments/assets/55d53ac9-63c4-492d-8bb2-0e10ddb4b62b" />
 
 
-Prettyy cool looking Right? made in Kicad snuck a couple qoutes in there removed the  diodes and matrix for simplicity <br>
+Prettyy cool looking Right? made in Kicad snuck a couple qoutes in there. removed the diodes and matrix for simplicity <br>
 
 
-
+## FIRMWARE
 
 
 
