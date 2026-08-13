@@ -1,5 +1,6 @@
 # PixelPadV2
-## MacroPad made for HackClub hackpadV2
+## MacroPad made for HackClub hackpad
+This is V2 of the hack pad v1 can be accessed here https://github.com/PixelPanda32/MacroPad <br>
 4 buttons, 2 knobs and a  oled SCREEEN
 
 ## Stuff you could do with it
