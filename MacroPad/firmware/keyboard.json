@@ -1,0 +1,11 @@
+    "keyboard_name": "PixelPad",
+    "maintainer": "You",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+        "matrix_pins": {
+        "cols": ["C1", "C2"],
+        "rows": ["D1", "D2"]
+    },
