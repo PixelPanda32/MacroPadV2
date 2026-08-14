@@ -23,7 +23,7 @@ Prettyy cool looking Right? made in Kicad snuck a couple qoutes in there. remove
 
 ## FIRMWARE
 
-ive got a kmk firmware which should work but you never know will get it working when i have all the componenets tho <br>
+ive got a kmk firmware which should work but you never know will get it working when i have all the componenets tho and im pretty sure the KMK firmware doesnt need to be complied to anything <br> 
 
 
 ## BOM
