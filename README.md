@@ -16,6 +16,8 @@ Would like to add more **fancy** but couldnt thinkkk of what to add. The box als
 ## PCB 
 I removed two of the buttons in place of another knob.(knobs are cooler and  *twisty*)<br>
 <img width="284" height="289" alt="image" src="https://github.com/user-attachments/assets/55d53ac9-63c4-492d-8bb2-0e10ddb4b62b" />
+<img width="249" height="233" alt="image" src="https://github.com/user-attachments/assets/4202840e-1286-48dd-a11b-2a264b3cdcf7" />
+
 
 
 Prettyy cool looking Right? made in Kicad snuck a couple qoutes in there. removed the diodes and matrix for simplicity <br>
